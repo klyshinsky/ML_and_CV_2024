@@ -11,5 +11,10 @@
 ### Тетрадки к лекциям и записи лекций
 
 [Лекция 2024.01.16](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240116_numpy.ipynb) - Numpy  
+[Запись лекции 2024.01.16, часть 1](https://youtu.be/bj2ix6a96m4)
+[Запись лекции 2024.01.16, часть 2](https://youtu.be/tdeOu2_pffQ)
 
 [Лекция 2024.01.16](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240116_Pandas.ipynb) - Pandas  
+[Запись лекции 2024.01.16, часть 3](https://youtu.be/dDirX5RV1f4)
+[Запись лекции 2024.01.16, часть 4](https://youtu.be/Q25N7J2FiAs)
+
