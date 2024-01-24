@@ -18,3 +18,7 @@
 [Запись лекции 2024.01.16, часть 3](https://youtu.be/dDirX5RV1f4)  
 [Запись лекции 2024.01.16, часть 4](https://youtu.be/Q25N7J2FiAs)
 
+[Запись лекции 2024.01.23, часть 1](https://youtu.be/g4D2pSCAsxA)  
+[Запись лекции 2024.01.23, часть 2](https://youtu.be/RWPTchuhZa0)
+
+
