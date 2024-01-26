@@ -21,4 +21,5 @@
 [Запись лекции 2024.01.23, часть 1](https://youtu.be/g4D2pSCAsxA)  
 [Запись лекции 2024.01.23, часть 2](https://youtu.be/RWPTchuhZa0)
 
-
+[Лекция 2024.01.30](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240130_image_processing.ipynb) - Обработка изображений.
+[Лекция 2024.01.30](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240130_clustering.ipynb) - методы кластеризации.
