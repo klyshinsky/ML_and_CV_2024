@@ -31,3 +31,5 @@
 [Запись лекции 2024.02.06, часть 2](https://www.youtube.com/watch?v=YLsQL7QyNuA)
 
 [Лекция 2024.02.13](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240213_OpenCV.ipynb) - работа с видео и аудио.
+
+[Лекция 2024.02.13](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240220_Classification.ipynb) - методы классификации (к ближайших соседей, регрессия).  
