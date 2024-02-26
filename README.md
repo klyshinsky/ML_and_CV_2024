@@ -33,3 +33,5 @@
 [Лекция 2024.02.13](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240213_OpenCV.ipynb) - работа с видео и аудио.
 
 [Лекция 2024.02.13](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240220_Classification.ipynb) - методы классификации (к ближайших соседей, регрессия).  
+
+[Лекция 2024.02.20](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240226_DecisionTrees.ipynb) - классификация с использованием деревьев принятия решений и случайного леса.  
