@@ -31,7 +31,15 @@
 [Запись лекции 2024.02.06, часть 2](https://www.youtube.com/watch?v=YLsQL7QyNuA)
 
 [Лекция 2024.02.13](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240213_OpenCV.ipynb) - работа с видео и аудио.
+[Запись лекции 2024.02.13, часть 1](https://www.youtube.com/watch?v=Og7Gb1gNnq0)  
+[Запись лекции 2024.02.13, часть 2](https://www.youtube.com/watch?v=Ts73TrrpJKM)
 
-[Лекция 2024.02.13](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240220_Classification.ipynb) - методы классификации (к ближайших соседей, регрессия).  
+[Лекция 2024.02.20](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240220_Classification.ipynb) - методы классификации (к ближайших соседей, регрессия).  
+[Запись лекции 2024.02.20, часть 1](https://www.youtube.com/watch?v=OepenGtUfR0)  
+[Запись лекции 2024.02.20, часть 2](https://www.youtube.com/watch?v=enMiax02kBI)
 
-[Лекция 2024.02.20](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240226_DecisionTrees.ipynb) - классификация с использованием деревьев принятия решений и случайного леса.  
+[Лекция 2024.02.27](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240226_DecisionTrees.ipynb) - классификация с использованием деревьев принятия решений и случайного леса.  
+[Запись лекции 2024.02.27, часть 1](https://www.youtube.com/watch?v=4oduNIM7C9w)  
+[Запись лекции 2024.02.27, часть 2](https://www.youtube.com/watch?v=nj6QGepbbpw)
+
+[Лекция 2024.03.05](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240305_Ensamble.ipynb) - ансамблевые методы классификации.  
