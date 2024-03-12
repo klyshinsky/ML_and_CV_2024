@@ -43,3 +43,6 @@
 [Запись лекции 2024.02.27, часть 2](https://www.youtube.com/watch?v=nj6QGepbbpw)
 
 [Лекция 2024.03.05](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240305_Ensamble.ipynb) - ансамблевые методы классификации.  
+
+Лекция 2024.03.12 [часть 1](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240312_1_regexp.ipynb) - регулярные выражения.  
+Лекция 2024.03.12 [часть 2](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240312_2_requests.ipynb) - requests.  
