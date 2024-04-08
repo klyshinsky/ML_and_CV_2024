@@ -46,3 +46,9 @@
 
 Лекция 2024.03.12 [часть 1](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240312_1_regexp.ipynb) - регулярные выражения.  
 Лекция 2024.03.12 [часть 2](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240312_2_requests.ipynb) - requests.  
+[Запись лекции 2024.03.19, часть 1](https://www.youtube.com/watch?v=tgfJRfZLY-M)
+[Запись лекции 2024.03.19, часть 2](https://www.youtube.com/watch?v=ZwhWSJcEO0M)
+[Запись лекции 2024.04.02, часть 1](https://www.youtube.com/watch?v=2lZSA5wJEnI)
+[Запись лекции 2024.04.02, часть 2](https://www.youtube.com/watch?v=rA61GFFYtrs)
+
+Лекция 2024.04.09 [часть 1](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240409_text_processing.ipynb) - Обработка текстов.  
