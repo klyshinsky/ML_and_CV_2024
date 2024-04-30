@@ -51,4 +51,12 @@
 [Запись лекции 2024.04.02, часть 1](https://www.youtube.com/watch?v=2lZSA5wJEnI)
 [Запись лекции 2024.04.02, часть 2](https://www.youtube.com/watch?v=rA61GFFYtrs)
 
-Лекция 2024.04.09 [часть 1](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240409_text_processing.ipynb) - Обработка текстов.  
+[Лекция 2024.04.09](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240409_text_processing.ipynb) - Обработка текстов.  
+[Запись лекции 2024.04.09, часть 1](https://www.youtube.com/watch?v=B9DV9SbYx4M)
+[Запись лекции 2024.04.09, часть 2](https://www.youtube.com/watch?v=bAst70iv07w)
+
+[Лекция 2024.04.09](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240416_W2V_Bert.ipynb) - Векторное представление текстовб Word2Vec, Bert.  
+[Запись лекции 2024.04.16, часть 1](https://www.youtube.com/watch?v=xd0FDU9O2lY)
+[Запись лекции 2024.04.16, часть 2](https://www.youtube.com/watch?v=45liA_2eiLk)
+
+[Лекция 2024.04.30](https://github.com/klyshinsky/ML_and_CV_2023/blob/main/Lecture_20240430_Neural_Networks_Dense_CNN_RNN.ipynb) - Нейронные сети.
